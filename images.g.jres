@@ -1,0 +1,50 @@
+{
+    "myImages.image4": {
+        "id": "myImages.image4",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADwUFVVVVUAAO9QAFAAUADwzlBQVVVQAO+8UFBQUFDwzttQUFBQUO+87VBVVVVVztvuUFVVVVXO2+5QUFBQUO+87VBQUFBQ8M7bUFBVVVAA77xQAFAAUADwzlBVVVVVAADvAAAAAAAAAPAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "StandWithTreasure"
+    },
+    "myImages.image5": {
+        "id": "myImages.image5",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAAAAAO8AAAAAAADwzgAAAAAAAO+8AAAAAADwztsAAAAAAO+87QAAAAAAztvuAAAAAADO2+4AAAAAAO+87QAAAAAA8M7bAAAAAAAA77wAAAAAAADwzgAAAAAAAADvAAAAAAAAAPAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Stand"
+    },
+    "myImages.image1": {
+        "id": "myImages.image1",
+        "data": "hwQQABAAAAAAAAD/DwAAAAAA8In5AAAAAACfmJgPAAAAAI+JifkAAAAAn5iYmA8AAACPiYmJ+QAAAJ+YmJiYDwAAn5iJiYn5AACfmImJifkAAJ+YmJiYDwAAj4mJifkAAAAfkZiYDwAAAI+BifkAAAAAHxGYDwAAAADwifkAAAAAAAD/DwAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Diamond"
+    },
+    "myImages.image2": {
+        "id": "myImages.image2",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAMzMAAAAAAC8u6zMAAAAsLu7u6oMAAC8u7u7q8oAALy7q6q7ygDAvLuqqqqqDMDNqqrMrKoMwM2qyszMqgzAzKrKzMyqDADMEcrMzMoAAMwRzcysygAAwNzdzMoMAAAAzMzMzAAAAAAAzMwAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PurplePearl"
+    },
+    "myImages.image3": {
+        "id": "myImages.image3",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACIiAAAAAAAgJEICAAAAABJBJCQAAAAgESEiQgIAAEIRUiUiJAAAIiIkQiIiAABCUkIkJSQAAEJSQiQlJAAAIiIkQiIiAABCIlIlIiQAACAkIiJCAgAAAEJCJCQAAAAAICRCAgAAAAAAIiIAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "FireGem"
+    },
+    "myImages.image6": {
+        "id": "myImages.image6",
+        "data": "hwQYABgAAAAAAAAA7u4OAAAAAAAAAAAAvrsOAAAAAAAAAAAAvrv//wAAAAAAAAAA7u7u/gAAAAAAAAAAAADv/gAAAAAAAACwCwDv/gAAAAAAAACrCwDv/gAAAAAAALCqCwDv/v//7u4AACuqCwDv7u7uiOgAsCeq3d3t7u7uiOgAeyeq/f3t7u7u6O6wdyeq3f3t5V7uDgAAeyeq/f3t7u7u6O4AsCeq3d3t7u7uiOgAACuqCwDv7u7uiOgAALCqCwDv/v//7u4AAACrCwDv/gAAAAAAAACwCwDv/gAAAAAAAAAAAADv/gAAAAAAAAAAAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hero"
+    }
+}
